@@ -33,4 +33,3 @@ class DeviceDescriptor:
             ):
                 return device
         return None
-    
